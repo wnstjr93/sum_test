@@ -2,7 +2,7 @@
 
 
 int sum(int n) {
-	int res=0;
+	int i,res=0;
 for(i=1;i<=n;i++)
 res+=i;
 
